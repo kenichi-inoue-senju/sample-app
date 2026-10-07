@@ -43,7 +43,7 @@
 
 ## 動作環境
 
-- モダンブラウザ（Chrome / Edge / Firefox 等）
+- モダンブラウザ（Chrome / Edge 等）
 - インターネット接続あり
   - Tailwind CSS と Google Fonts を CDN で読み込むため
 
